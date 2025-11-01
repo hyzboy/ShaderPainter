@@ -1,2 +1,2 @@
-# PaintShader
-Vulkan shader-based painter software for programmers
+# Shader Painter
+shader-based painter software for programmers
